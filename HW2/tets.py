@@ -1,9 +1,3 @@
-
-
-
-
-
-
 count_bilet = int(input('Введите количество билетов: '))
 massiv = {}
 cost = []
